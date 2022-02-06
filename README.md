@@ -1,1 +1,10 @@
-# -
+string name = "Иван";
+string surname = "Иванов";
+int age = "25";
+int day = "06";
+string month = "Февраль";
+int year = "2022";
+char question = '?';
+float exact time = 7.2f;
+bool stop = folse;
+bool countinue = true;
